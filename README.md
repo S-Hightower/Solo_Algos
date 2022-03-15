@@ -1,0 +1,1 @@
+This is my repo for random algo practice and walkthroughs for algorithms I find on my own, not through any structured program/course.
