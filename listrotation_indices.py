@@ -2,6 +2,7 @@
 # Constant space requirement
 # return input list "rotated"
 
+#helper function
 def rev(lst, low, high):
     while low < high:
         lst[low], lst[high] = lst[high], lst[low]
